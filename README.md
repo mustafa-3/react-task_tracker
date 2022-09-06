@@ -9,4 +9,4 @@ The main purpose of this project was to capture data from forms and use this dat
 [Click Here To See All Page](react-task-tracker-app1.netlify.app)
 
 ***
-![](https://github.com/MuazV/react-task_tracker/blob/master/src/assets/Animation.gif)
+![]
