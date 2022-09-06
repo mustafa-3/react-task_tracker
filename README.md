@@ -6,7 +6,8 @@ The main purpose of this project was to capture data from forms and use this dat
 + Map, <br> are the methods I generally use in this project.
 ***
 
-[Click Here To See All Page](react-task-tracker-app1.netlify.app)
+[Click Here To See All Page](https://react-task-tracker-app1.netlify.app/)
+
 
 ***
 ![]
